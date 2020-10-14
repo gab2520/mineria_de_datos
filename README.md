@@ -13,5 +13,5 @@ Clase de Mineria de Datos FCFM
 
 ## FASE 2
 
-[Ejercicio practico base de datos]
+[Ejercicio practico base de datos](https://github.com/gab2520/mineria_de_datos/blob/master/AnalisisBD_1752950.pdf)
 
