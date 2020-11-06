@@ -18,3 +18,7 @@ Clase de Mineria de Datos FCFM
 [Ejercicios de python basico](https://github.com/gab2520/mineria_de_datos/blob/master/PythonBasico_1752950.ipynb)
 
 [Avance 1 Proyecto Integrador](https://github.com/gab2520/mineria_de_datos/blob/master/Avance1-PIA_Equipo12_002.pdf)
+
+[P1-Manipulacion de datos](https://github.com/gab2520/mineria_de_datos/blob/master/preparacion%20de%20datos%20accidentes.ipynb)
+
+[P2-Visualizacion de datos](https://github.com/gab2520/mineria_de_datos/blob/master/P2%20-%20Visualizaci%C3%B3n%20de%20datos%20accidentes.ipynb)
