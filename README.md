@@ -26,3 +26,5 @@ Clase de Mineria de Datos FCFM
 ## Fase 3
 
 [Segundo Avance PIA](https://github.com/gab2520/mineria_de_datos/blob/master/AvancePIA_II_002_12.ipynb)
+
+[PROYECTO INTEGRADOR Equipo 12](https://github.com/gab2520/mineria_de_datos/blob/master/PIA_Equipo12_002.pdf)
